@@ -1,0 +1,48 @@
+{
+    "libros": [
+        {
+            "id": 1,
+            "titulo": "Cien años de soledad",
+            "autor": "Gabriel García Márquez",
+            "genero": "Realismo mágico",
+            "año_publicacion": 1967,
+            "isbn": "978-0307474728",
+            "disponibilidad": true,
+            "imagen": "https://ejemplo.com/imagenes/cien_anios_de_soledad.jpg",
+            "sinopsis": "Cien años de soledad cuenta la historia de la familia Buendía a lo largo de varias generaciones en el pueblo ficticio de Macondo, desde su fundación hasta su decadencia."
+        },
+        {
+            "id": 2,
+            "titulo": "El amor en los tiempos del cólera",
+            "autor": "Gabriel García Márquez",
+            "genero": "Ficción histórica",
+            "año_publicacion": 1985,
+            "isbn": "978-1400034686",
+            "disponibilidad": true,
+            "imagen": "https://ejemplo.com/imagenes/el_amor_en_los_tiempos_del_colera.jpg",
+            "sinopsis": "El amor en los tiempos del cólera es una historia de amor épica que sigue la vida de Florentino Ariza y Fermina Daza, quienes se enamoran en su juventud pero son separados por circunstancias de la vida."
+        },
+        {
+            "id": 3,
+            "titulo": "Rayuela",
+            "autor": "Julio Cortázar",
+            "genero": "Novela experimental",
+            "año_publicacion": 1963,
+            "isbn": "978-8466332994",
+            "disponibilidad": false,
+            "imagen": "https://ejemplo.com/imagenes/rayuela.jpg",
+            "sinopsis": "Rayuela es una novela que desafía las convenciones narrativas tradicionales, presentando una estructura no lineal y explorando temas de identidad, amor y búsqueda espiritual a través de la historia de Horacio Oliveira y sus relaciones con otros personajes."
+        },
+        {
+            "id": 4,
+            "titulo": "La casa de los espíritus",
+            "autor": "Isabel Allende",
+            "genero": "Realismo mágico",
+            "año_publicacion": 1982,
+            "isbn": "978-0553383805",
+            "disponibilidad": true,
+            "imagen": "https://ejemplo.com/imagenes/la_casa_de_los_espiritus.jpg",
+            "sinopsis": "La casa de los espíritus sigue la historia de la familia Trueba en Chile a lo largo de varias generaciones, explorando temas como el amor, la política y la magia en un contexto de cambios sociales y políticos."
+        }
+    ]
+}
